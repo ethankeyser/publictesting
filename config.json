@@ -1,0 +1,4 @@
+{"proxy_lists":
+    {},
+    "settings":
+    {"discord_webhook": "", "api_key": "", "catchall": "", "2cap": ""}, "master_mails": {}, "analytics": {"accounts_created": {"shopify": 0, "gmail": 0}, "amount_spent": 0.0}, "task_groups": {}, "account_groups": {}, "email_lists": {}}
