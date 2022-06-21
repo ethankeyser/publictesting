@@ -27,13 +27,13 @@
     "switch_progress": ["#608BD5", "#395E9C"],
     "switch_button": ["#000000", "#000000"],
     "switch_button_hover": ["#000000", "#000000"],
-    "optionmenu_button": ["#36719F", "#662DF5"],
-    "optionmenu_button_hover": ["#27577D", "#203A4F"],
+    "optionmenu_button": ["#4818ad", "#4818ad"],
+    "optionmenu_button_hover": ["#3c0d9e", "#3c0d9e"],
     "combobox_border": ["gray70", "gray32"],
     "combobox_button_hover": ["#6E7174", "#7A848D"],
     "dropdown_color": ["#A8ACB1", "#535353"],
     "dropdown_hover": ["#D6DCE2", "#393D40"],
-    "dropdown_text": ["#000000", "#000000"]
+    "dropdown_text": ["#ffffff", "#ffffff"]
   },
   "text": {
     "macOS": {
