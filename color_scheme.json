@@ -23,17 +23,17 @@
     "slider_progress": ["#141625", "#141625"],
     "slider_button": ["#141625", "#141625"],
     "slider_button_hover": ["#141625", "#141625"],
-    "switch": ["#141625", "#141625"],
+    "switch": ["#1B1A17", "#1B1A17"],
     "switch_progress": ["#608BD5", "#395E9C"],
-    "switch_button": ["#141625", "#141625"],
-    "switch_button_hover": ["#141625", "#141625"],
+    "switch_button": ["#662DF5", "#662DF5"],
+    "switch_button_hover": ["#9772FB", "#9772FB"],
     "optionmenu_button": ["#4818ad", "#4818ad"],
     "optionmenu_button_hover": ["gray24", "gray24"],
     "combobox_border": ["gray70", "gray32"],
     "combobox_button_hover": ["#6E7174", "#7A848D"],
     "dropdown_color": ["gray24", "gray24"],
     "dropdown_hover": ["gray25", "gray25"],
-    "dropdown_text": ["#ffffff", "#ffffff"]
+    "dropdown_text": ["gray70", "gray70"]
   },
   "text": {
     "macOS": {
